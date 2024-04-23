@@ -1,3 +1,3 @@
 # README FOR git-demo
 
-Change here - 
+Working with git
