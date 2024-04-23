@@ -8,5 +8,10 @@ Working with git
    3. `git add .` / `git commit -m "Some message` whenever you want to make a commit
    4. `git push origin main` push the changes to github
    5. repeat steps 2-4
+<<<<<<< HEAD
+
+- Create branches with `git switch -c`
+=======
  
   Git is a tool to manage the versioning of our projects!
+>>>>>>> 56f864b36740aee449239ddcb3aede1444dbbaa7
